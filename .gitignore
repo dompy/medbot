@@ -16,3 +16,5 @@ data/raw_documents/
 
 # Chunks
 data/chunks/
+
+models/
