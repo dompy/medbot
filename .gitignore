@@ -13,3 +13,6 @@ embeddings/
 
 # Optional: exclude PDFs if private
 data/raw_documents/
+
+# Chunks
+data/chunks/
