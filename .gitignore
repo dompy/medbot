@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+
+# Local vector DB
+embeddings/
+
+# Optional: exclude PDFs if private
+data/raw_documents/
